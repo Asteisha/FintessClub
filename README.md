@@ -12,3 +12,6 @@
  Добавление клиентов
  ![image](https://user-images.githubusercontent.com/116633180/223358606-9c16594e-49db-49e0-9246-cfe7b7d3f11b.png)
 ![image](https://user-images.githubusercontent.com/116633180/223358714-c92e38e5-6183-4a18-9a51-de6aaed0760c.png)
+
+Добавление клиента
+![image](https://user-images.githubusercontent.com/116633180/224951501-717dafc6-b5ab-42cd-a324-65d322afa8cc.png)
